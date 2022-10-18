@@ -1,6 +1,7 @@
-![APOLOSOFT_free-file](https://user-images.githubusercontent.com/103220491/196310960-2ed794c9-c843-4fe7-83a0-8bd188ef100c.png)
+![APOLOSOFTWARE_free-file](https://user-images.githubusercontent.com/103220491/196312168-25628449-1c23-429d-aa70-fb8e04906b59.png)
 
-# habilitacion_ApoloSoft #
+
+# habilitacion_ApoloSoftware #
 
 ## Integrante ##
 
